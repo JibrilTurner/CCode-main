@@ -1,0 +1,135 @@
+0000 // input
+0000 // flip
+0000 // div 2
+0000 // mult 2
+0000 // flip
+
+8000 // input
+0008 // flip
+0004 // div 2
+0008 // mult 2
+8000 // flip
+
+
+\*
+a + b
+a + b = c
+return c
+
+test = 5 5
+solu = 10
+a + b
+if test == solu
+print (PASS)
+else
+print (FAILED)
+*/
+
+// password manger
+
+
+test[i] = {123,321,594}
+solu[i] = {321,123,495}
+
+start at 0 end at 2 i++
+
+if test[i] == solu[i]
+print "test1.[i] Passed"
+else
+print "test1.[i] Failed"
+
+
+
+char d[i] = 'a', 'b', 'c;;
+char r[i] = '!', '#', '%';
+
+start at 0 end at 3 3=i++
+
+if string [i] == d[i]
+string [i] == r[i]
+else if string[i] == d[i]
+string [i] == d[i]
+else if string[i] == d[i]
+string [i] == r[i]
+
+
+
+
+
+
+
+
+Enter 0 to view saved passwords
+Enter 1 to decrpyt password
+Enter 2 to manange password
+
+Test 0
+Gmail | Jibril2006$ | J$b#$lU$-=# |
+Steam | Pineapple#1 | P#ne%((l#$1 |
+
+Test 1
+Enter Password: Jibril2006$
+Heres the encrypted password: J$b#$lU$-=#
+
+
+Delete   | Copy | Paste | Exit | New Password |  // use arrow keys
+Gmail    | Jibril2006$  | J$b#$lU$-=#         |  // to intract with the menu
+Steam    | Pineapple#1  | P#ne%((l#$1         |
+
+KEY
+5 6 5 5
+4 5 4 4
+3 4 3 3
+2 3 2 2
+1 2 1 1
+ -1
+
+
+33 48 58 65 97   // low
+47 57 65 91 123  // high
+
+
+// Expected output for program 
+
+
+
+
+
+
+Saved Passwords |  Enter Password | DPassword | RPassword
+
+switch(opt)
+opt 0 = listPasswords
+
+/*
+savedPassword  
+
+Passowrds 
+
+
+
+
+*/ 
+switch(opt) 
+opt 1 = RegisterPassword
+switch(opt) 
+opt 2 = convertPhraseIntoKey
+switch(opt) 
+opt 3 = convertKeyIntoPhrase 
+
+void RegisterPassword(char [])
+
+543 // flipped then write to text
+345 // read from text then flippedd
+
+write();
+will ask the user to add to the txt file
+
+
+  #0  .Google         :Tester
+  #1  .Gmail          :whatUncle
+  #2  .Steam          :MastersDegree
+  #3  .Apple          :Haltered
+  #4  .Docs           :Never-mind
+  #99 .1234567891234  :Password
+  #Index .CompanyName :Password
